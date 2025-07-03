@@ -1,0 +1,61 @@
+2025-07-04 00:04:33,733 - whisk_session_takeover - INFO - Initializing Whisk automation tool...
+2025-07-04 00:04:33,734 - whisk_session_takeover - INFO - Attempting to connect to Chrome DevTools on port 9222
+2025-07-04 00:04:35,792 - whisk_session_takeover - INFO - Found 1 tabs in Chrome
+2025-07-04 00:04:35,792 - whisk_session_takeover - INFO - Connecting to WebSocket: ws://localhost:9222/devtools/page/07F849AA8A9B4C41AB6C0DD0AAC1EC97
+2025-07-04 00:04:37,859 - whisk_session_takeover - INFO - Successfully connected to tab: Whisk - labs.google/fx
+2025-07-04 00:04:39,861 - whisk_session_takeover - INFO - Whisk automation tool initialized successfully
+2025-07-04 00:04:39,861 - whisk_session_takeover - INFO - 🔍 Inspecting page elements...
+2025-07-04 00:04:39,866 - whisk_session_takeover - INFO - Found 1 textarea(s):
+2025-07-04 00:04:39,866 - whisk_session_takeover - INFO -   Textarea 1: placeholder='Describe your idea or roll the dice for prompt ideas', class='sc-19fd03b4-7 jjuyuu', id=''
+2025-07-04 00:04:39,867 - whisk_session_takeover - INFO - Found 14 visible button(s):
+2025-07-04 00:04:39,867 - whisk_session_takeover - INFO -   Button 1: text='OK, got it', aria='None', disabled=False, hasIcon=False
+2025-07-04 00:04:39,868 - whisk_session_takeover - INFO -   Button 2: text='menu', aria='Toggle settings panel', disabled=False, hasIcon=True
+2025-07-04 00:04:39,868 - whisk_session_takeover - INFO -   Button 3: text='WhiskExperiment', aria='None', disabled=False, hasIcon=False
+2025-07-04 00:04:39,868 - whisk_session_takeover - INFO -   Button 4: text='add_photo_alternate', aria='None', disabled=False, hasIcon=True
+2025-07-04 00:04:39,868 - whisk_session_takeover - INFO -   Button 5: text='videocam_auto', aria='None', disabled=False, hasIcon=True
+2025-07-04 00:04:39,868 - whisk_session_takeover - INFO -   Button 6: text='favorite', aria='None', disabled=False, hasIcon=True
+2025-07-04 00:04:39,868 - whisk_session_takeover - INFO -   Button 7: text='Abouthelp_outlined', aria='None', disabled=False, hasIcon=True
+2025-07-04 00:04:39,868 - whisk_session_takeover - INFO -   Button 8: text='', aria='None', disabled=False, hasIcon=False
+2025-07-04 00:04:39,868 - whisk_session_takeover - INFO -   Button 9: text='keyboard_arrow_right', aria='None', disabled=False, hasIcon=True
+2025-07-04 00:04:39,868 - whisk_session_takeover - INFO -   Button 10: text='keyboard_arrow_rightAdd Images', aria='None', disabled=False, hasIcon=True
+2025-07-04 00:04:39,880 - whisk_session_takeover - INFO - Processing prompt 1: Create a modern logo for tech startup...
+2025-07-04 00:04:39,880 - whisk_session_takeover - INFO - Attempt 1/3
+2025-07-04 00:04:39,881 - whisk_session_takeover - INFO - ✅ Found textarea with selector: textarea[placeholder*="Describe your idea"]
+2025-07-04 00:04:39,881 - whisk_session_takeover - INFO - Filling prompt with React handler: Create a modern logo for tech ...
+2025-07-04 00:04:41,399 - whisk_session_takeover - INFO - ✅ Text successfully filled: 37 characters
+2025-07-04 00:04:42,411 - whisk_session_takeover - INFO - ✅ Found button with selector: button[aria-label="Submit prompt"]
+2025-07-04 00:04:42,411 - whisk_session_takeover - INFO - Waiting for submit button to be enabled...
+2025-07-04 00:04:42,411 - whisk_session_takeover - INFO - Waiting for button to be enabled (timeout: 20s)
+2025-07-04 00:04:42,412 - whisk_session_takeover - INFO - ✅ Button enabled after 0.0 seconds
+2025-07-04 00:04:42,412 - whisk_session_takeover - INFO - Button enabled, attempting normal click...
+2025-07-04 00:04:42,464 - whisk_session_takeover - INFO - ✅ Normal click successful
+2025-07-04 00:04:42,464 - whisk_session_takeover - INFO - Waiting 20 seconds for generation...
+2025-07-04 00:05:02,454 - whisk_session_takeover - INFO - ✅ Successfully processed prompt 1
+2025-07-04 00:05:04,467 - whisk_session_takeover - INFO - Processing prompt 2: Design a mobile app interface for food delivery...
+2025-07-04 00:05:04,468 - whisk_session_takeover - INFO - Attempt 1/3
+2025-07-04 00:05:04,468 - whisk_session_takeover - INFO - ✅ Found textarea with selector: textarea[placeholder*="Describe your idea"]
+2025-07-04 00:05:04,469 - whisk_session_takeover - INFO - Filling prompt with React handler: Design a mobile app interface ...
+2025-07-04 00:05:05,999 - whisk_session_takeover - INFO - ✅ Text successfully filled: 47 characters
+2025-07-04 00:05:07,007 - whisk_session_takeover - INFO - ✅ Found button with selector: button[aria-label="Submit prompt"]
+2025-07-04 00:05:07,008 - whisk_session_takeover - INFO - Waiting for submit button to be enabled...
+2025-07-04 00:05:07,008 - whisk_session_takeover - INFO - Waiting for button to be enabled (timeout: 20s)
+2025-07-04 00:05:07,008 - whisk_session_takeover - INFO - ✅ Button enabled after 0.0 seconds
+2025-07-04 00:05:07,008 - whisk_session_takeover - INFO - Button enabled, attempting normal click...
+2025-07-04 00:05:07,060 - whisk_session_takeover - INFO - ✅ Normal click successful
+2025-07-04 00:05:07,060 - whisk_session_takeover - INFO - Waiting 20 seconds for generation...
+2025-07-04 00:05:27,075 - whisk_session_takeover - INFO - ✅ Successfully processed prompt 2
+2025-07-04 00:05:29,085 - whisk_session_takeover - INFO - Processing prompt 3: Create a poster for music festivalCreate a modern ...
+2025-07-04 00:05:29,085 - whisk_session_takeover - INFO - Attempt 1/3
+2025-07-04 00:05:29,086 - whisk_session_takeover - INFO - ✅ Found textarea with selector: textarea[placeholder*="Describe your idea"]
+2025-07-04 00:05:29,086 - whisk_session_takeover - INFO - Filling prompt with React handler: Create a poster for music fest...
+2025-07-04 00:05:30,600 - whisk_session_takeover - INFO - ✅ Text successfully filled: 71 characters
+2025-07-04 00:05:31,608 - whisk_session_takeover - INFO - ✅ Found button with selector: button[aria-label="Submit prompt"]
+2025-07-04 00:05:31,608 - whisk_session_takeover - INFO - Waiting for submit button to be enabled...
+2025-07-04 00:05:31,608 - whisk_session_takeover - INFO - Waiting for button to be enabled (timeout: 20s)
+2025-07-04 00:05:31,609 - whisk_session_takeover - INFO - ✅ Button enabled after 0.0 seconds
+2025-07-04 00:05:31,609 - whisk_session_takeover - INFO - Button enabled, attempting normal click...
+2025-07-04 00:05:31,660 - whisk_session_takeover - INFO - ✅ Normal click successful
+2025-07-04 00:05:31,660 - whisk_session_takeover - INFO - Waiting 20 seconds for generation...
+2025-07-04 00:05:51,673 - whisk_session_takeover - INFO - ✅ Successfully processed prompt 3
+2025-07-04 00:08:23,230 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection.keepalive() done, defined at websockets\asyncio\connection.py:803> wait_for=<Future pending cb=[Task.task_wakeup()]>>
