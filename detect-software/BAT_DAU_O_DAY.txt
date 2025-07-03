@@ -1,36 +1,29 @@
 ================================================================
-🚀 WHISK AUTOMATION TOOL - HƯỚNG DẪN CHO KHÁCH HÀNG
+🎨 WHISK AUTOMATION TOOL - PROFESSIONAL EDITION
 ================================================================
 
-📋 BƯỚC 1: CÀI ĐẶT (Chỉ làm 1 lần đầu tiên)
-============================================
+📋 HƯỚNG DẪN NHANH CHO KHÁCH HÀNG
+=================================
 
-🎯 CÁCH DỄ NHẤT:
-Double-click file: "setup_tool.py"
-Tool sẽ tự động cài đặt mọi thứ cho bạn!
+🚀 KHỞI CHẠY TOOL:
+Double-click file: "run_whisk_tool.bat"
+Hoặc double-click: "whisk_gui.py"
 
-🎯 CÁCH THỦ CÔNG (nếu cách trên không được):
-1. Cài đặt Python từ: https://python.org
-   (Nhớ chọn "Add Python to PATH")
-2. Cài đặt Chrome từ: https://chrome.google.com
-3. Mở Command Prompt, gõ: python setup_tool.py
+🎯 SỬ DỤNG GIAO DIỆN MỚI:
+1️⃣ Click "🚀 Start Chrome" để khởi động Chrome
+2️⃣ Mở tab Whisk trong Chrome vừa mở
+3️⃣ Nhập prompts vào ô "Content Prompts"
+4️⃣ Click "▶️ Start Automation" để bắt đầu
 
-================================================================
+✨ TÍNH NĂNG MỚI:
+🎨 Giao diện chuyên nghiệp hoàn toàn mới
+🚀 Tự động khởi động Chrome
+📝 Quản lý prompts dễ dàng
+⚙️ Cấu hình linh hoạt
+📋 Log chi tiết real-time
 
-📋 BƯỚC 2: SỬ DỤNG HÀNG NGÀY
-=============================
-
-🎯 SAU KHI ĐÃ CÀI ĐẶT:
-
-CÁCH DUY NHẤT:
-Double-click file: "CHAY_NGAY.py"
-
-Tool sẽ:
-✅ Tự động mở Chrome với debug mode
-✅ Hướng dẫn bạn đăng nhập Google và vào Whisk
-✅ Kiểm tra kết nối tự động
-✅ Xử lý tất cả prompts trong file prompts.txt
-✅ Báo cáo kết quả chi tiết
+📞 HỖ TRỢ 24/7:
+Zalo: 0379822057 (Nghĩa)
 
 ================================================================
 
