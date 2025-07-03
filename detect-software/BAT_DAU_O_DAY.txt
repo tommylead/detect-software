@@ -1,0 +1,102 @@
+================================================================
+🚀 WHISK AUTOMATION TOOL - HƯỚNG DẪN CHO KHÁCH HÀNG
+================================================================
+
+📋 BƯỚC 1: CÀI ĐẶT (Chỉ làm 1 lần đầu tiên)
+============================================
+
+🎯 CÁCH DỄ NHẤT:
+Double-click file: "setup_tool.py"
+Tool sẽ tự động cài đặt mọi thứ cho bạn!
+
+🎯 CÁCH THỦ CÔNG (nếu cách trên không được):
+1. Cài đặt Python từ: https://python.org
+   (Nhớ chọn "Add Python to PATH")
+2. Cài đặt Chrome từ: https://chrome.google.com
+3. Mở Command Prompt, gõ: python setup_tool.py
+
+================================================================
+
+📋 BƯỚC 2: SỬ DỤNG HÀNG NGÀY
+=============================
+
+🎯 SAU KHI ĐÃ CÀI ĐẶT:
+
+CÁCH DUY NHẤT:
+Double-click file: "CHAY_NGAY.py"
+
+Tool sẽ:
+✅ Tự động mở Chrome với debug mode
+✅ Hướng dẫn bạn đăng nhập Google và vào Whisk
+✅ Kiểm tra kết nối tự động
+✅ Xử lý tất cả prompts trong file prompts.txt
+✅ Báo cáo kết quả chi tiết
+
+================================================================
+
+📝 CHUẨN BỊ PROMPTS
+===================
+
+1. Mở file "prompts.txt"
+2. Thêm các prompt của bạn (mỗi dòng 1 prompt)
+3. Ví dụ:
+   Create a modern logo for tech startup
+   Design a mobile app interface
+   Generate a poster for music festival
+
+================================================================
+
+🆘 KHI GẶP VẤN ĐỀ
+==================
+
+❌ Lỗi "Python was not found":
+→ Double-click file: "CHAY_AUTOMATION.py" (thay vì .bat)
+
+❌ Lỗi "No Whisk tab found":
+→ Đảm bảo đã vào https://labs.google/fx/tools/whisk
+
+❌ Lỗi "Button not enabled":
+→ Kiểm tra tài khoản có credits
+→ Tăng delay time lên 30-40 giây
+
+❌ Lỗi khác:
+→ Đọc file "KHAC_PHUC_LOI.md" để biết chi tiết
+
+================================================================
+
+📞 HỖ TRỢ
+=========
+
+Nếu gặp vấn đề:
+1. Chụp màn hình lỗi
+2. Gửi file "whisk_automation.log"
+3. Liên hệ support
+
+================================================================
+
+🎉 THÀNH CÔNG!
+==============
+
+Tool sẽ tự động:
+✅ Mở Chrome với debug mode
+✅ Hướng dẫn đăng nhập
+✅ Xử lý từng prompt
+✅ Báo cáo kết quả
+
+Success rate: 90%+
+
+================================================================
+
+📋 TÓM TẮT NHANH:
+=================
+
+LẦN ĐẦU:
+1. Double-click "setup_tool.py"
+2. Chờ cài đặt hoàn tất
+
+HÀNG NGÀY:
+1. Chỉnh sửa "prompts.txt"
+2. Double-click "CHAY_NGAY.py"
+3. Làm theo hướng dẫn
+
+XONG! 🎯

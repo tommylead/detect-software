@@ -1,0 +1,23 @@
+{
+  "chrome_debug_port": 9222,
+  "generation_delay": 20,
+  "retry_attempts": 3,
+  "retry_delay": 5,
+  "prompts_file": "prompts.txt",
+  "log_level": "INFO",
+  "whisk_selectors": {
+    "prompt_input": "textarea[placeholder*=\"prompt\"], textarea[placeholder*=\"Enter\"], input[type=\"text\"], .prompt-input, #prompt-field",
+    "generate_button": "button:contains(\"Generate\"), button[type=\"submit\"], .generate-btn, .btn-generate, button[data-action=\"generate\"]",
+    "loading_indicator": ".loading, .spinner, [data-loading=\"true\"], .generating, .in-progress"
+  },
+  "timing": {
+    "page_load_wait": 2,
+    "element_wait_timeout": 10,
+    "between_prompts_delay": 2,
+    "human_like_delays": {
+      "min_typing_delay": 0.05,
+      "max_typing_delay": 0.15,
+      "click_delay": 0.1
+    }
+  }
+}
